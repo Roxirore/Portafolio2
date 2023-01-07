@@ -61,6 +61,7 @@ i:hover {
 .main-menu__item{
     list-style: none;
     padding: 0.5rem;
+    color: var(--light);
 }
 a {
     text-decoration: none;
