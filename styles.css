@@ -214,6 +214,8 @@ h2 {
     }
 
     .main-menu {
+        padding-left: 20vw;
+        padding-right: 2vw;
         flex-direction: row;
         justify-content: space-around;
         align-items: center;
